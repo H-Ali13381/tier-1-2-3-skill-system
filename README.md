@@ -82,6 +82,14 @@ npx skills add H-Ali13381/tier-1-2-3-skill-system
 
 The root `SKILL.md` is canonical. A mirror copy also lives under `.agents/skills/tier-1-2-3-skill-system/` so cross-client skill scanners can discover it without breaking strict root skill validation.
 
+## Related skill
+
+Use this with Recursive Agent Improvement:
+
+- https://github.com/H-Ali13381/recursive-agent-improvement
+
+Tier 1-2-3 decides whether a workflow should stay text-only, become script-backed, or escalate to an ML/specialist pipeline. Recursive Agent Improvement is the companion for the Tier 3 path: building the specialist tool, evaluator, verifier, reranker, classifier, detector, or training pipeline.
+
 ## License
 
 MIT

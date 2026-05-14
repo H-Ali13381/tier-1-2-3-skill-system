@@ -9,6 +9,10 @@ Canonical files:
 
 When editing the skill, update the root `SKILL.md` first, then copy it to the mirror path so both `SKILL.md` files stay identical.
 
+Related skill:
+
+- `recursive-agent-improvement`: https://github.com/H-Ali13381/recursive-agent-improvement
+
 Installability check:
 
 ```bash

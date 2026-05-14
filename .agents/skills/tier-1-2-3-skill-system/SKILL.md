@@ -11,6 +11,10 @@ metadata:
     - skill-design
     - automation
     - ml-pipeline
+  related_skills:
+    - recursive-agent-improvement
+  related_repositories:
+    - https://github.com/H-Ali13381/recursive-agent-improvement
 ---
 
 # Tier 1-2-3 Skill System
@@ -124,6 +128,12 @@ Rules:
 - Add an eval plan and model card before publishing a specialist model.
 
 Promotion signal: the missing piece is perception, ranking, scoring, detection, classification, or domain inference.
+
+## Related Skill
+
+Use `recursive-agent-improvement` when the decision reaches Tier 3 and the agent needs to turn a measurable failure into a specialist tool, evaluator, reranker, classifier, detector, verifier, or ML training pipeline. This skill chooses the lightest reliable shape; `recursive-agent-improvement` builds the Tier 3 capability.
+
+Repo: https://github.com/H-Ali13381/recursive-agent-improvement
 
 ## Decision Checklist
 
