@@ -74,6 +74,14 @@ Do not overbuild. The best skill system is lean at the top, scripted where usefu
 
 `SKILL.md` contains the agent-facing version of this model.
 
+Install directly from GitHub:
+
+```bash
+npx skills add H-Ali13381/tier-1-2-3-skill-system
+```
+
+The root `SKILL.md` is canonical. A mirror copy also lives under `.agents/skills/tier-1-2-3-skill-system/` so cross-client skill scanners can discover it without breaking strict root skill validation.
+
 ## License
 
 MIT
